@@ -1,3 +1,6 @@
 [submodule "SHP-SHOW-CASE-ESS-PKG"]
 	path = SHP-SHOW-CASE-ESS-PKG
 	url = git@github.com:tayalone/SHP-SHOW-CASE-ESS-PKG.git
+[submodule "SHP-SHOW-CASE-BOOK-SRV"]
+	path = SHP-SHOW-CASE-BOOK-SRV
+	url = git@github.com:tayalone/SHP-SHOW-CASE-BOOK-SRV.git
