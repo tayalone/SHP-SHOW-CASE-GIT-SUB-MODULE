@@ -1,0 +1,3 @@
+[submodule "SHP-SHOW-CASE-ESS-PKG"]
+	path = SHP-SHOW-CASE-ESS-PKG
+	url = git@github.com:tayalone/SHP-SHOW-CASE-ESS-PKG.git
